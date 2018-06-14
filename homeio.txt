@@ -781,6 +781,302 @@
         "willPayload": ""
     },
     {
+        "id": "87f21861.141818",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "f5bc8917.6585b8",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "sparks-vm24.i3s.unice.fr",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "705ede06.b4b32",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "ee9c1cce.4aeec",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "17b13599.c6a59a",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "6fa445ce.0af6cc",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "sparks-vm24.i3s.unice.fr",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "aa50489.4fdf5b8",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "85b5a667.0e84f8",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "efbefa8f.930c58",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "61e80344.813a9c",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "sparks-vm24.i3s.unice.fr",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "96db803e.eca64",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "a097f0d4.d97b6",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "366c11e5.0657ee",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "eb994731.857d18",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "sparks-vm24.i3s.unice.fr",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "163cd1b3.8a0e8e",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "e63d1475.cb9d08",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
         "id": "afe43a73.749a38",
         "type": "mosca in",
         "z": "7ff88f77.ad8e2",
@@ -3274,69 +3570,11 @@
         "topic": "/home/O/Input/float/Brightness_Sensor_(Analog)",
         "qos": "2",
         "broker": "349ec84e.43ecd8",
-        "x": 260,
-        "y": 3000,
+        "x": 240,
+        "y": 2700,
         "wires": [
             [
-                "bc3720e2.2b706",
-                "e52645b3.094ba8",
-                "ed61bf9f.c2e78",
                 "7d8a61d7.1dc3"
-            ]
-        ]
-    },
-    {
-        "id": "bc3720e2.2b706",
-        "type": "function",
-        "z": "7ff88f77.ad8e2",
-        "name": "translate home io payload to thingspeak",
-        "func": "var API_KEY = \"7XWC1HZ4ZEB2GPRN\";\n\nvar topicSplit = msg.topic.split(/[/]+/);\nmsg.topic = topicSplit[3];\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 670,
-        "y": 2940,
-        "wires": [
-            [
-                "300afe01.22b442"
-            ]
-        ]
-    },
-    {
-        "id": "300afe01.22b442",
-        "type": "delay",
-        "z": "7ff88f77.ad8e2",
-        "name": "limit continunous update rate",
-        "pauseType": "rate",
-        "timeout": "5",
-        "timeoutUnits": "seconds",
-        "rate": "21",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 1000,
-        "y": 2940,
-        "wires": [
-            [
-                "8e8ff44c.7725c8"
-            ]
-        ]
-    },
-    {
-        "id": "8e8ff44c.7725c8",
-        "type": "function",
-        "z": "7ff88f77.ad8e2",
-        "name": "LightSwimmingController",
-        "func": "if(msg.payload < 1.8){\n    msg.payload = true;\n}else{\n    msg.payload = false;\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 1260,
-        "y": 2940,
-        "wires": [
-            [
-                "c21aa347.e5452"
             ]
         ]
     },
@@ -3349,8 +3587,8 @@
         "qos": "",
         "retain": "",
         "broker": "de0f2fba.9fc9f",
-        "x": 1530,
-        "y": 2940,
+        "x": 1140,
+        "y": 2780,
         "wires": []
     },
     {
@@ -3362,8 +3600,8 @@
         "qos": "",
         "retain": "",
         "broker": "de0f2fba.9fc9f",
-        "x": 1540,
-        "y": 3000,
+        "x": 1150,
+        "y": 2840,
         "wires": []
     },
     {
@@ -3375,73 +3613,9 @@
         "qos": "",
         "retain": "",
         "broker": "de0f2fba.9fc9f",
-        "x": 1540,
-        "y": 3060,
+        "x": 1150,
+        "y": 2900,
         "wires": []
-    },
-    {
-        "id": "e52645b3.094ba8",
-        "type": "function",
-        "z": "7ff88f77.ad8e2",
-        "name": "translate home io payload to thingspeak",
-        "func": "var API_KEY = \"7XWC1HZ4ZEB2GPRN\";\n\nvar topicSplit = msg.topic.split(/[/]+/);\nmsg.topic = topicSplit[3];\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 670,
-        "y": 3000,
-        "wires": [
-            [
-                "5a9a29e0.2b8bf8"
-            ]
-        ]
-    },
-    {
-        "id": "7c03f909.32ad08",
-        "type": "function",
-        "z": "7ff88f77.ad8e2",
-        "name": "LightSwimmingController",
-        "func": "if(msg.payload < 1.8){\n    msg.payload = true;\n}else{\n    msg.payload = false;\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 1260,
-        "y": 3000,
-        "wires": [
-            [
-                "e1f49da4.51cc9"
-            ]
-        ]
-    },
-    {
-        "id": "ed61bf9f.c2e78",
-        "type": "function",
-        "z": "7ff88f77.ad8e2",
-        "name": "translate home io payload to thingspeak",
-        "func": "var API_KEY = \"7XWC1HZ4ZEB2GPRN\";\n\nvar topicSplit = msg.topic.split(/[/]+/);\nmsg.topic = topicSplit[3];\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 670,
-        "y": 3060,
-        "wires": [
-            [
-                "598c496c.bbc338"
-            ]
-        ]
-    },
-    {
-        "id": "78960604.dccce8",
-        "type": "function",
-        "z": "7ff88f77.ad8e2",
-        "name": "LightSwimmingController",
-        "func": "if(msg.payload < 1.8){\n    msg.payload = true;\n}else{\n    msg.payload = false;\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "x": 1260,
-        "y": 3060,
-        "wires": [
-            [
-                "ed2f526d.3861a"
-            ]
-        ]
     },
     {
         "id": "7d8a61d7.1dc3",
@@ -3451,8 +3625,8 @@
         "func": "var API_KEY = \"7XWC1HZ4ZEB2GPRN\";\n\nvar topicSplit = msg.topic.split(/[/]+/);\nmsg.topic = topicSplit[3];\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "x": 670,
-        "y": 3120,
+        "x": 280,
+        "y": 2820,
         "wires": [
             [
                 "3f849078.66afb"
@@ -3467,11 +3641,14 @@
         "func": "if(msg.payload < 1.8){\n    msg.payload = true;\n}else{\n    msg.payload = false;\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "x": 1260,
-        "y": 3120,
+        "x": 710,
+        "y": 2920,
         "wires": [
             [
-                "b9ffc2b0.f5e63"
+                "b9ffc2b0.f5e63",
+                "c21aa347.e5452",
+                "ed2f526d.3861a",
+                "e1f49da4.51cc9"
             ]
         ]
     },
@@ -3484,55 +3661,9 @@
         "qos": "",
         "retain": "",
         "broker": "de0f2fba.9fc9f",
-        "x": 1540,
-        "y": 3120,
+        "x": 1150,
+        "y": 2960,
         "wires": []
-    },
-    {
-        "id": "5a9a29e0.2b8bf8",
-        "type": "delay",
-        "z": "7ff88f77.ad8e2",
-        "name": "limit continunous update rate",
-        "pauseType": "rate",
-        "timeout": "5",
-        "timeoutUnits": "seconds",
-        "rate": "21",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 1000,
-        "y": 3000,
-        "wires": [
-            [
-                "7c03f909.32ad08"
-            ]
-        ]
-    },
-    {
-        "id": "598c496c.bbc338",
-        "type": "delay",
-        "z": "7ff88f77.ad8e2",
-        "name": "limit continunous update rate",
-        "pauseType": "rate",
-        "timeout": "5",
-        "timeoutUnits": "seconds",
-        "rate": "21",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "x": 1000,
-        "y": 3060,
-        "wires": [
-            [
-                "78960604.dccce8"
-            ]
-        ]
     },
     {
         "id": "3f849078.66afb",
@@ -3549,8 +3680,8 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "x": 1000,
-        "y": 3120,
+        "x": 240,
+        "y": 2920,
         "wires": [
             [
                 "520e996f.a429a8"
@@ -3562,13 +3693,27 @@
         "type": "function",
         "z": "7ff88f77.ad8e2",
         "name": "up",
-        "func": "\nreturn msg;",
+        "func": "\nreturn msg;\n",
         "outputs": 1,
         "noerr": 0,
-        "x": 1050,
-        "y": 1960,
+        "x": 1010,
+        "y": 1880,
         "wires": [
-            []
+            [
+                "e390fe6f.f69ab",
+                "34dc4cac.a3bc14",
+                "1c48eaae.ba6d05",
+                "9e94ed36.a2887",
+                "d1d85d6d.aa2f2",
+                "1cc2bbe4.d1afc4",
+                "c39658a5.4d7bd8",
+                "d10294b2.c4ce18",
+                "7d7bace5.bc0024",
+                "feabd364.005d2",
+                "b43a86ea.7ad018",
+                "15d948c0.897777",
+                "1e7c388e.b64a27"
+            ]
         ]
     },
     {
@@ -3576,13 +3721,263 @@
         "type": "function",
         "z": "7ff88f77.ad8e2",
         "name": "down",
+        "func": "\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 1010,
+        "y": 2140,
+        "wires": [
+            [
+                "3c75e0e3.3e8f2",
+                "f2231697.c6edf8",
+                "608ee4cd.ae591c",
+                "6e9fd7fe.0aec68",
+                "dec91e57.da9ca",
+                "50cf7cb3.93f624",
+                "1f7a2908.386967",
+                "336a561b.005a9a",
+                "97e6f0d2.ef094",
+                "6d1e9dc6.a983a4",
+                "366d13a6.6d370c",
+                "f7367f06.56cc",
+                "dd409de0.524e9"
+            ]
+        ]
+    },
+    {
+        "id": "b9f263e6.20d52",
+        "type": "function",
+        "z": "7ff88f77.ad8e2",
+        "name": "Open",
+        "func": "msg.payload = true;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 590,
+        "y": 2140,
+        "wires": [
+            [
+                "4b493d74.564a04",
+                "60b1c08c.d3fbb"
+            ]
+        ]
+    },
+    {
+        "id": "59005534.ec34ec",
+        "type": "function",
+        "z": "7ff88f77.ad8e2",
+        "name": "Close",
         "func": "\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "x": 930,
-        "y": 2580,
+        "x": 590,
+        "y": 1900,
         "wires": [
-            []
+            [
+                "8482456d.f305e8",
+                "8510819b.45081"
+            ]
+        ]
+    },
+    {
+        "id": "60b1c08c.d3fbb",
+        "type": "change",
+        "z": "7ff88f77.ad8e2",
+        "name": "reverse",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 2080,
+        "wires": [
+            [
+                "fa3561aa.4f1dd"
+            ]
+        ]
+    },
+    {
+        "id": "4b493d74.564a04",
+        "type": "trigger",
+        "z": "7ff88f77.ad8e2",
+        "op1": "true",
+        "op2": "false",
+        "op1type": "bool",
+        "op2type": "bool",
+        "duration": "1",
+        "extend": false,
+        "units": "s",
+        "reset": "",
+        "bytopic": "topic",
+        "name": "ActionTime",
+        "x": 770,
+        "y": 2040,
+        "wires": [
+            [
+                "8b799c10.e9ea3"
+            ]
+        ]
+    },
+    {
+        "id": "8510819b.45081",
+        "type": "change",
+        "z": "7ff88f77.ad8e2",
+        "name": "reverse",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 1960,
+        "wires": [
+            [
+                "8b799c10.e9ea3"
+            ]
+        ]
+    },
+    {
+        "id": "8482456d.f305e8",
+        "type": "trigger",
+        "z": "7ff88f77.ad8e2",
+        "op1": "true",
+        "op2": "false",
+        "op1type": "bool",
+        "op2type": "bool",
+        "duration": "1",
+        "extend": false,
+        "units": "s",
+        "reset": "",
+        "bytopic": "topic",
+        "name": "ActionTime",
+        "x": 770,
+        "y": 2000,
+        "wires": [
+            [
+                "fa3561aa.4f1dd"
+            ]
+        ]
+    },
+    {
+        "id": "e415181.c05dae8",
+        "type": "switch",
+        "z": "7ff88f77.ad8e2",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "true",
+                "vt": "jsonata"
+            },
+            {
+                "t": "eq",
+                "v": "false",
+                "vt": "jsonata"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 2040,
+        "wires": [
+            [
+                "59005534.ec34ec"
+            ],
+            [
+                "b9f263e6.20d52"
+            ]
+        ]
+    },
+    {
+        "id": "265aae12.c2b132",
+        "type": "mqtt in",
+        "z": "7ff88f77.ad8e2",
+        "name": "",
+        "topic": "/home/O/Input/float/Brightness_Sensor_(Analog)",
+        "qos": "2",
+        "broker": "349ec84e.43ecd8",
+        "x": 220,
+        "y": 1800,
+        "wires": [
+            [
+                "d3ed58a7.a90208"
+            ]
+        ]
+    },
+    {
+        "id": "d3ed58a7.a90208",
+        "type": "function",
+        "z": "7ff88f77.ad8e2",
+        "name": "translate home io payload to thingspeak",
+        "func": "var API_KEY = \"7XWC1HZ4ZEB2GPRN\";\n\nvar topicSplit = msg.topic.split(/[/]+/);\nmsg.topic = topicSplit[3];\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 200,
+        "y": 1960,
+        "wires": [
+            [
+                "55275066.6fb79"
+            ]
+        ]
+    },
+    {
+        "id": "f7b6dc89.f0bcf",
+        "type": "function",
+        "z": "7ff88f77.ad8e2",
+        "name": "LightSwimmingController",
+        "func": "if(msg.payload < 1.8){\n    msg.payload = true;\n}else{\n    msg.payload = false;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 170,
+        "y": 2220,
+        "wires": [
+            [
+                "e415181.c05dae8"
+            ]
+        ]
+    },
+    {
+        "id": "55275066.6fb79",
+        "type": "delay",
+        "z": "7ff88f77.ad8e2",
+        "name": "limit continunous update rate",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "21",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 180,
+        "y": 2100,
+        "wires": [
+            [
+                "f7b6dc89.f0bcf"
+            ]
         ]
     }
 ]
