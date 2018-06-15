@@ -10905,6 +10905,231 @@
         "icon": "dashboard"
     },
     {
+        "id": "567f8381.0a78dc",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "6e0ea5f2.0cf65c",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "sparks-vm24.i3s.unice.fr",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "cc1b9922.c67c58",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "347c2c0.dd366d4",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "ca6d6301.64082",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "28ed95c6.52eb2a",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "sparks-vm24.i3s.unice.fr",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "3a3b134.f798bec",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "93d7dc87.db8ae",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "c3bf5758.07c428",
+        "type": "ui_group",
+        "z": "",
+        "name": "Lumiere",
+        "tab": "e01287ea.e028f8",
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "f9dad171.d12cd",
+        "type": "ui_group",
+        "z": "",
+        "name": "Volet",
+        "tab": "e01287ea.e028f8",
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "cf93ccf9.5868e",
+        "type": "ui_group",
+        "z": "",
+        "name": "Mode Switch",
+        "tab": "e01287ea.e028f8",
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "9fd42bb4.942a18",
+        "type": "ui_group",
+        "z": "",
+        "name": "Securite",
+        "tab": "e01287ea.e028f8",
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "bd327029.817e2",
+        "type": "ui_group",
+        "z": "",
+        "name": "Room etat",
+        "tab": "e01287ea.e028f8",
+        "disp": true,
+        "width": "12",
+        "collapse": false
+    },
+    {
+        "id": "e3551575.6ac138",
+        "type": "ui_group",
+        "z": "",
+        "name": "Garage",
+        "tab": "e01287ea.e028f8",
+        "disp": true,
+        "width": "3",
+        "collapse": false
+    },
+    {
+        "id": "c033cd27.0e461",
+        "type": "ui_group",
+        "z": "",
+        "name": "Door_Control",
+        "tab": "623a8881.3f7a98",
+        "disp": true,
+        "width": "3",
+        "collapse": false
+    },
+    {
+        "id": "e01287ea.e028f8",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Home",
+        "icon": "dashboard"
+    },
+    {
         "id": "693c0144.7b98d",
         "type": "mosca in",
         "z": "1da751b8.9334de",
@@ -12643,7 +12868,7 @@
         "name": "Garage_Control",
         "info": "",
         "x": 160,
-        "y": 3500,
+        "y": 3220,
         "wires": []
     },
     {
@@ -12656,7 +12881,7 @@
         "retain": "",
         "broker": "e21b3934.e78708",
         "x": 740,
-        "y": 3620,
+        "y": 3340,
         "wires": []
     },
     {
@@ -12669,7 +12894,7 @@
         "retain": "",
         "broker": "e21b3934.e78708",
         "x": 740,
-        "y": 3760,
+        "y": 3480,
         "wires": []
     },
     {
@@ -12681,7 +12906,7 @@
         "qos": "2",
         "broker": "8642ac22.fd862",
         "x": 240,
-        "y": 3560,
+        "y": 3280,
         "wires": [
             [
                 "abc4c778.cfbca8"
@@ -12697,7 +12922,7 @@
         "qos": "2",
         "broker": "8642ac22.fd862",
         "x": 250,
-        "y": 3800,
+        "y": 3520,
         "wires": [
             [
                 "4ecf59a2.69f3c8"
@@ -12724,7 +12949,7 @@
         "to": "",
         "reg": false,
         "x": 520,
-        "y": 3560,
+        "y": 3280,
         "wires": [
             [
                 "852d8a38.9e7138"
@@ -12751,7 +12976,7 @@
         "to": "",
         "reg": false,
         "x": 530,
-        "y": 3800,
+        "y": 3520,
         "wires": [
             [
                 "2bb8cd25.e55b02"
@@ -12776,7 +13001,7 @@
         "payloadType": "bool",
         "topic": "",
         "x": 210,
-        "y": 3640,
+        "y": 3360,
         "wires": [
             [
                 "852d8a38.9e7138"
@@ -12801,7 +13026,7 @@
         "payloadType": "bool",
         "topic": "",
         "x": 210,
-        "y": 3740,
+        "y": 3460,
         "wires": [
             [
                 "2bb8cd25.e55b02"
@@ -12812,10 +13037,10 @@
         "id": "ea187ae6.127458",
         "type": "comment",
         "z": "1da751b8.9334de",
-        "name": "Auto-Manu-Switch",
+        "name": "Mode_Switch",
         "info": "",
-        "x": 170,
-        "y": 3300,
+        "x": 150,
+        "y": 3080,
         "wires": []
     },
     {
@@ -12841,7 +13066,7 @@
         "officon": "",
         "offcolor": "",
         "x": 230,
-        "y": 3360,
+        "y": 3140,
         "wires": [
             [
                 "18a7151c.5bf26b"
@@ -12857,7 +13082,7 @@
         "outputs": 0,
         "noerr": 0,
         "x": 400,
-        "y": 3360,
+        "y": 3140,
         "wires": []
     },
     {
@@ -13127,10 +13352,10 @@
                 "aeb6cf5b.8fbd7"
             ],
             [
-                "ab0558a1.3ad0e8",
-                "6bfb0412.be7e2c",
-                "dfb50b2a.ff7888",
-                "4dbe2d87.a1b044"
+                "3202885.f79aa78",
+                "f2d942fb.3548",
+                "7d0dc6e1.09fec8",
+                "89023bf9.850a58"
             ]
         ]
     },
@@ -13200,58 +13425,6 @@
                 "634a3cdc.1f7fa4"
             ]
         ]
-    },
-    {
-        "id": "ab0558a1.3ad0e8",
-        "type": "mqtt out",
-        "z": "1da751b8.9334de",
-        "name": "",
-        "topic": "/home/O/Output/float/Lights_Pool_(Analog)",
-        "qos": "",
-        "retain": "",
-        "broker": "d6e81ddf.90adc",
-        "x": 2030,
-        "y": 980,
-        "wires": []
-    },
-    {
-        "id": "dfb50b2a.ff7888",
-        "type": "mqtt out",
-        "z": "1da751b8.9334de",
-        "name": "",
-        "topic": "/home/O/Output/float/Lights_Porch_1_(Analog)",
-        "qos": "",
-        "retain": "",
-        "broker": "d6e81ddf.90adc",
-        "x": 2040,
-        "y": 1060,
-        "wires": []
-    },
-    {
-        "id": "6bfb0412.be7e2c",
-        "type": "mqtt out",
-        "z": "1da751b8.9334de",
-        "name": "",
-        "topic": "/home/O/Output/float/Lights_Porch_2_(Analog)",
-        "qos": "",
-        "retain": "",
-        "broker": "d6e81ddf.90adc",
-        "x": 2040,
-        "y": 1020,
-        "wires": []
-    },
-    {
-        "id": "4dbe2d87.a1b044",
-        "type": "mqtt out",
-        "z": "1da751b8.9334de",
-        "name": "",
-        "topic": "/home/O/Output/float/Lights_Garden_(Analog)",
-        "qos": "",
-        "retain": "",
-        "broker": "d6e81ddf.90adc",
-        "x": 2040,
-        "y": 1100,
-        "wires": []
     },
     {
         "id": "1a0921fb.51a96e",
@@ -14442,5 +14615,249 @@
                 "3b2e7373.f162ac"
             ]
         ]
+    },
+    {
+        "id": "56f99e0b.dfd09",
+        "type": "comment",
+        "z": "1da751b8.9334de",
+        "name": "Manu_Light",
+        "info": "",
+        "x": 1130,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "b4a00f3a.0206e",
+        "type": "comment",
+        "z": "1da751b8.9334de",
+        "name": "Manu_Volet",
+        "info": "",
+        "x": 1830,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "8806a2d8.3844b",
+        "type": "mqtt out",
+        "z": "1da751b8.9334de",
+        "name": "",
+        "topic": "/home/O/Output/bool/Entrance_Gate_(Close)",
+        "qos": "",
+        "retain": "",
+        "broker": "93d7dc87.db8ae",
+        "x": 1730,
+        "y": 3420,
+        "wires": []
+    },
+    {
+        "id": "604450e8.97fda",
+        "type": "mqtt out",
+        "z": "1da751b8.9334de",
+        "name": "",
+        "topic": "/home/O/Output/bool/Entrance_Gate_(Open)",
+        "qos": "",
+        "retain": "",
+        "broker": "93d7dc87.db8ae",
+        "x": 1730,
+        "y": 3380,
+        "wires": []
+    },
+    {
+        "id": "3301eecb.41d3a2",
+        "type": "ui_button",
+        "z": "1da751b8.9334de",
+        "name": "Open Door",
+        "group": "c033cd27.0e461",
+        "order": 0,
+        "width": "0",
+        "height": "0",
+        "passthru": false,
+        "label": "Open",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "",
+        "x": 1110,
+        "y": 3360,
+        "wires": [
+            [
+                "604450e8.97fda"
+            ]
+        ]
+    },
+    {
+        "id": "237e469e.9dc58a",
+        "type": "ui_button",
+        "z": "1da751b8.9334de",
+        "name": "Close Door",
+        "group": "c033cd27.0e461",
+        "order": 0,
+        "width": "0",
+        "height": "0",
+        "passthru": false,
+        "label": "Close",
+        "color": "",
+        "bgcolor": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "",
+        "x": 1110,
+        "y": 3420,
+        "wires": [
+            [
+                "8806a2d8.3844b"
+            ]
+        ]
+    },
+    {
+        "id": "601cb91c.c473a8",
+        "type": "mqtt in",
+        "z": "1da751b8.9334de",
+        "name": "",
+        "topic": "/home/O/Input/bool/Entrance_Gate_(Closed)",
+        "qos": "2",
+        "broker": "93d7dc87.db8ae",
+        "x": 1090,
+        "y": 3500,
+        "wires": [
+            [
+                "497b3a5c.437674"
+            ]
+        ]
+    },
+    {
+        "id": "36476209.ce55fe",
+        "type": "mqtt in",
+        "z": "1da751b8.9334de",
+        "name": "",
+        "topic": "/home/O/Input/bool/Entrance_Gate_(Opened)",
+        "qos": "2",
+        "broker": "93d7dc87.db8ae",
+        "x": 1090,
+        "y": 3280,
+        "wires": [
+            [
+                "528d432a.f9d52c"
+            ]
+        ]
+    },
+    {
+        "id": "528d432a.f9d52c",
+        "type": "change",
+        "z": "1da751b8.9334de",
+        "name": "false",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1410,
+        "y": 3280,
+        "wires": [
+            [
+                "604450e8.97fda"
+            ]
+        ]
+    },
+    {
+        "id": "497b3a5c.437674",
+        "type": "change",
+        "z": "1da751b8.9334de",
+        "name": "false",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1430,
+        "y": 3500,
+        "wires": [
+            [
+                "8806a2d8.3844b"
+            ]
+        ]
+    },
+    {
+        "id": "77857c52.d1d514",
+        "type": "comment",
+        "z": "1da751b8.9334de",
+        "name": "Door_Control",
+        "info": "",
+        "x": 1010,
+        "y": 3220,
+        "wires": []
+    },
+    {
+        "id": "3202885.f79aa78",
+        "type": "mqtt out",
+        "z": "1da751b8.9334de",
+        "name": "",
+        "topic": "/home/O/Output/bool/Lights_Pool",
+        "qos": "",
+        "retain": "",
+        "broker": "20527e73.8533f2",
+        "x": 2000,
+        "y": 980,
+        "wires": []
+    },
+    {
+        "id": "f2d942fb.3548",
+        "type": "mqtt out",
+        "z": "1da751b8.9334de",
+        "name": "",
+        "topic": "/home/O/Output/bool/Lights_Porch_1",
+        "qos": "",
+        "retain": "",
+        "broker": "20527e73.8533f2",
+        "x": 2010,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "7d0dc6e1.09fec8",
+        "type": "mqtt out",
+        "z": "1da751b8.9334de",
+        "name": "",
+        "topic": "/home/O/Output/bool/Lights_Porch_2",
+        "qos": "",
+        "retain": "",
+        "broker": "20527e73.8533f2",
+        "x": 2010,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "89023bf9.850a58",
+        "type": "mqtt out",
+        "z": "1da751b8.9334de",
+        "name": "",
+        "topic": "/home/O/Output/bool/Lights_Garden",
+        "qos": "",
+        "retain": "",
+        "broker": "20527e73.8533f2",
+        "x": 2010,
+        "y": 1100,
+        "wires": []
     }
 ]
